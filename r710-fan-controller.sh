@@ -27,7 +27,7 @@ HDD_LEVEL4=42
 HDD_LEVEL4=44
 HDD_LEVEL5=46
 
-# Lüfter umdrehungen in Hex:
+# Lüfter umdrehungen (Dell R710) in Hex:
 # 0x09 = 2100
 # 0x10 = 2800
 # 0x13 = 3240
@@ -44,7 +44,7 @@ FAN_LEVEL3=0x32
 FAN_LEVEL4=0x38
 FAN_LEVEL5=auto
 
-# Kontanten
+# Init
 OLD_LEVEL=5
 FAN_IS_AUTO=1
 CMD_FAN_AUTO=0
